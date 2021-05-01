@@ -1,0 +1,19 @@
+.music{
+    color:yellowgreen;
+    font-weight: bold;
+    text-decoration: double;
+    font-style:italic;
+    font-size:20px;
+}
+.name{
+    color:aqua;
+    font-weight: bold;
+    text-decoration: double;
+    font-size:20px;
+}
+.fvr{
+    color:red;
+    font-weight:bold;
+    text-decoration: double;
+    font-size: 20px;
+}
