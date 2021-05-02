@@ -17,3 +17,17 @@
     text-decoration: double;
     font-size: 20px;
 }
+.email{
+    color:purple;
+    font-weight: bold;
+    text-decoration: double;
+    font-style:italic;
+    font-size:20px;
+}
+.account{
+    color:brown;
+    font-weight: bold;
+    text-decoration: double;
+    font-style:italic;
+    font-size:20px;
+}
